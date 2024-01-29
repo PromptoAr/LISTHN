@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="45TV.hn" tvg-logo="https://i.imgur.com/SjUnQlg.png" group-title="General",45 TV
+https://stream.alojamientowebgt.com:3656/live/tv45live.m3u8
+#EXTINF:-1 tvg-id="504TV.hn" tvg-logo="https://i.imgur.com/c2HLI3k.png" group-title="Entertainment",504 TV
+https://mediacp.us:8081/504tvhn/index.m3u8
+#EXTINF:-1 tvg-id="AZATVHD.hn" tvg-logo="https://i.imgur.com/Jytpy32.png" group-title="",AZA TV HD
+https://stmv1.zcasthn.com.br/azatvhd/azatvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="",Campus TV
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="",Canal 11
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+#EXTINF:-1 tvg-id="Canal5ElLider.hn" tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="",Canal 5 El Lider
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+#EXTINF:-1 tvg-id="Canal7TalangaVision.hn" tvg-logo="https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png" group-title="General",Canal 7 Talanga Vision
+https://stream.oursnetworktv.com/latin/talangatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CholusatSur36.hn" tvg-logo="https://i.imgur.com/6qL2hE5.png" group-title="",Cholusat Sur 36
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
+#EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://i.imgur.com/KBYUOcP.png" group-title="",LTV
+https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
+#EXTINF:-1 tvg-id="MasNoticiasTelevision.hn" tvg-logo="https://i.imgur.com/FG4nfRX.jpg" group-title="News",Mas Noticias Television
+https://www.amixtv.com:8081/mntvh/index.m3u8
+#EXTINF:-1 tvg-id="MayaTV.hn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/512px-Maya_TV_logo.png" group-title="",Maya TV
+https://media.streambrothers.com:19360/8356/8356.m3u8
+#EXTINF:-1 tvg-id="QhuboTV.hn" tvg-logo="https://i.imgur.com/yZmnfvj.png" group-title="",Q'hubo TV
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+#EXTINF:-1 tvg-id="TENCanal10.hn" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="",TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logohch2022.png" group-title="",HCH
+https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-XQ41K7C5yMSGbjQqVz5RNmHy7sfDztOwZt54JR-5tot)/cloud/3/x81za5c/s/live-2.m3u8
+#EXTINF:-1 tvg-id="VTVHN" tvg-logo="https://es.wikipedia.org/wiki/VTV_%28Honduras%29#/media/Archivo:VTV_HN_logo_2019.png" group-title="",VTVHN
+https://d1af06j591gh9u.cloudfront.net/VTVHN/e395935fa39597e3997b916a295f23e4.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SUYAPA MEDIOS" tvg-logo="https://suyapamedios.hn/mis_medios/2020/08/LOGOS-Suyapa-Medios-Blanco.png" group-title="",SUYAPA MEDIOS
+https://stream-02.nyc.dailymotion.com/sec(MRbE_08IhureG_pwTTHWqqKGMJmyJrJiqyh8Sx0H5NTLm1x2JKhth98q9SW5WrQq)/dm/3/x8jso92/s/live-0.m3u8
